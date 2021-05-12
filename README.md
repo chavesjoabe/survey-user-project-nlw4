@@ -11,7 +11,7 @@ to make the access, you need configure the connection on file _ormconfig.json_ a
 
 the information that you need is: 
 
-,,,
+```
 {
     "type": "YOUR_DATABASE",
     "host": "YOUR_HOST",
