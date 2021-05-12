@@ -28,7 +28,7 @@ the information that you need is:
         "entitiesDir": "./src/models"
     }
 }
-,,,
+```
 
 after that you can run the command
 > npm start
